@@ -1,0 +1,27 @@
+.grid{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+
+}
+
+.grid div{
+    height: 38px;
+    width: 38px;
+    border: 0.2px solid black;
+}
+
+.checked{
+    background-color: lightcoral;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 800;
+    font-family: sans-serif
+}
+
+.bomb{
+    /* background-color: orange; */
+}
+
